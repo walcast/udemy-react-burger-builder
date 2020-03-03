@@ -31,7 +31,7 @@ const ingredient = (props) => {
         default:
             ingredient = null;
     }
-    return ingredient;
+    return burgerIngredient;
 }
 
 export default ingredient;
