@@ -29,7 +29,8 @@ const ingredient = (props) => {
             burgerIngredient = <div className={classes.Bacon}></div>;
             break;
         default:
-            ingredient = null;
+            burgerIngredient = null;
+            break;
     }
     return burgerIngredient;
 }
