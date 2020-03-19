@@ -111,3 +111,9 @@
     background: linear-gradient(#bf3813, #c45e38);
     margin: 2% auto;
 }
+
+@media(max-width:600px){
+  .Seeds1, .Seeds2 {
+    width:5%;
+  }
+}

@@ -17,13 +17,14 @@
         display: none;
     }
 }
-.Close{
+.Open {
     transform: translate(0);
 }
-.Open {
+.Close {
     transform: translate(-100%);
 }
 
 .Logo {
     height: 11%;
+    margin-bottom: 32px;
 }
